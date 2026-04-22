@@ -1,4 +1,3 @@
-````markdown
 # Data Quality Pipeline (CSV → Parquet)
 ### Utvikler Mahram S.
 
