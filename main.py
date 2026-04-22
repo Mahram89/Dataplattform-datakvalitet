@@ -1,3 +1,6 @@
+# Developer/Author: Mahram S.
+# Everyone can use it
+
 from __future__ import annotations
 
 ##standardbiblioteker for henholdsvis håndtering av CLI-argumenter, JSON-data, logging og filstier på en ryddig måte
