@@ -1,0 +1,9 @@
+person_id,name,age,city
+1,Ali,34,Oslo
+2,Sara,29,Bergen
+3,Jon,-4,Trondheim
+4,,41,Oslo
+5,Mina,150,Stavanger
+6,Per,38,
+7,Amir,45,Drammen
+8,Nora,27,Tromsø
