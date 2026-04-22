@@ -184,4 +184,4 @@ Markdown Preview.
 
 Snarvei på min pc vs code:
 Ctrl + Shift + V
----
+```
